@@ -35,7 +35,8 @@
         -->
         <activity
             android:name="com.example.android.people.MainActivity"
-            android:launchMode="singleTop">
+            android:launchMode="singleTop"
+            android:exported="true">
             <!--
                 This activity is the one that's shown on the launcher.
             -->
